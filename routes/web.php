@@ -21,3 +21,6 @@ Route::get('/blog', 'ProfileController@blog')->name('blog');
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/huhu', function(){
+    return view('layouts.app_admin');
+});

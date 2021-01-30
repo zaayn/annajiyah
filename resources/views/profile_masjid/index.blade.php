@@ -37,34 +37,43 @@
     <div class="container d-flex justify-content-between align-items-center">
 
       <div class="logo">
-        <h1 class="text-light"><a href="index"><span>Moderna</span></a></h1>
+        <h1 class="text-light"><a href="index"><span>An-Najiyah</span></a></h1>
       </div>
 
       <nav class="nav-menu float-right d-none d-lg-block">
         <ul>
-          <li class="active"><a href="index">Home</a></li>
-          <li><a href="about">About Us</a></li>
-          <li><a href="services">Services</a></li>
-          <li><a href="portfolio">Portfolio</a></li>
-          <li><a href="team">Team</a></li>
-          <li><a href="blog">Blog</a></li>
-          <li class="drop-down"><a href="">Drop Down</a>
+          <li><a href="index">Beranda</a></li>
+          <li class="drop-down"><a href="">Tentang Kami</a>
             <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="drop-down"><a href="#">Drop Down 2</a>
-                <ul>
-                  <li><a href="#">Deep Drop Down 1</a></li>
-                  <li><a href="#">Deep Drop Down 2</a></li>
-                  <li><a href="#">Deep Drop Down 3</a></li>
-                  <li><a href="#">Deep Drop Down 4</a></li>
-                  <li><a href="#">Deep Drop Down 5</a></li>
-                </ul>
-              </li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-              <li><a href="#">Drop Down 5</a></li>
+              <li><a href="about">Tentang Annajiyah</a></li>
+              <li><a href="#">Sejarah</a></li>
+              <li><a href="#">Struktur Organisasi</a></li>
+              <li><a href="#">Komposisi Staff</a></li>
+              <li><a href="#">Direktorat</a></li>
             </ul>
           </li>
+          <li class="drop-down"><a href="">Fasilitas</a>
+            <ul>
+              <li><a href="services">Alqur'an</a></li>
+              <li><a href="#">Sejarah</a></li>
+              <li><a href="#">Struktur Organisasi</a></li>
+              <li><a href="#">Komposisi Staff</a></li>
+              <li><a href="#">Direktorat</a></li>
+            </ul>
+          </li>
+          <li class="drop-down"><a href="">Pendidikan</a>
+            <ul>
+              <li><a href="portfolio">Taman Pendidikan Quran</a></li>
+              <li><a href="#">Taman Kanak-Kanak</a></li>
+            </ul>
+          </li>
+          <li class="drop-down"><a href="">Mitra Dakwah</a>
+            <ul>
+              <li><a href="blog">Remaja Masjid</a></li>
+              <li><a href="#">KMNU</a></li>
+            </ul>
+          </li>
+          <li><a href="team">Jadwal Kegiatan</a></li>
           <li><a href="contact">Contact Us</a></li>
         </ul>
       </nav><!-- .nav-menu -->
